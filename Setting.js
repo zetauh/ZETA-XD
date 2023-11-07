@@ -14,15 +14,15 @@ global.email = 'HELP_SIGMA-MD@outlook.com' ;
 global.github = 'https://github.com/zetauh/ZETA-XD' ;
 global.location = 'Lahore Pakistan' ;
 global.timezone  = process.env.TIME_ZONE || 'Asia/Karachi' //add correct timezone or leave it same , otherwise you get erros
-global.gurl = 'https://www.youtube.com/@InnoxentTech?sub_confirmation=1' ; 
+global.gurl = 'https://bit.ly/yt-zeta' ; 
 global.sudo =  process.env.SUDO || "919747257996" ; // Do not change it
 global.devs = "919747257996"; //Dont change it From here
 global.mztit = process.env.MZTIT ||"𝐙𝐄𝐓𝐀", // add your title here
 global.Gname = process.env.GNAME ||"ᴢᴇᴛᴀ ᴹᴰ-sᴜᴘᴘᴏʀᴛ",
-global.zyt = process.env.ZYT || 'https://www.youtube.com/@InnoxentTech?sub_confirmation=1',
+global.zyt = process.env.ZYT || 'https://bit.ly/yt-zeta',
 global.waUrl = process.env.WAURL ||"https://chat.whatsapp.com/JIfqwty3eZLHePi6VaxvXd",
 global.website = 'http://lnkiy.in/SIGMA-MD-WEB' ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/03e49e6e2057568db8926.jpg' ;
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/a34a7fc7f54e073ab483a.jpg' ;
 module.exports = {
   sessionName: process.env.SESSION_ID || '',      //Put Your Session Id Here
   botname: process.env.BOT_NAME || 'ᴢᴇᴛᴀ ᴹᴰ',  // add the botname you want
