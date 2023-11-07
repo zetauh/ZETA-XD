@@ -1,7 +1,7 @@
 {
-          "name": "SIGMA-MD",
+          "name": "ZETA-XD",
           "version": "1.2.7",
-          "description": "SIGMA-MD A Whatsapp Bot By Maher Zubair",
+          "description": "ZETA-XD A Whatsapp Bot By Maher Zubair",
           "main": "lib/client.js",
           "type": "commonjs",
           "license": "GPL-3.0",
