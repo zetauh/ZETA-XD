@@ -1,6 +1,6 @@
 FROM quay.io/maherzubair/sigma-md:beta
-RUN git clone https://github.com/Maher-Zubair/SIGMA-MD /root/Maher-Zubair/SIGMA-MD
-WORKDIR /root/Maher-Zubair/SIGMA-MD/
+RUN git clone https://github.com/zetauh/ZETA-XD /root/zetauh/ZETA-XD
+WORKDIR /root/zetauh/ZETA-XD/
 RUN npm install npm@latest
 RUN npm install
 EXPOSE 8000
