@@ -272,7 +272,7 @@ async(sigma, person, memo) => {
             thumbnail: log0,
             mediaType: 4,
             mediaUrl: '',
-            sourceUrl: `${waUrl}`,}}}
+            sourceUrl: `${zyt}`,}}}
   
 return await sigma.sendMessage(person.chat, king,{quoted:person});
 }
