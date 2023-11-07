@@ -9,7 +9,7 @@
                     "start": "pm2 start lib/client.js --deep-monitoring --attach --name SIGMA-MD",
                     "stop": "pm2 stop SIGMA-MD"
           },
-          "author": "Maher Zubair",
+          "author": "BADAN SER",
           "dependencies": {
                     "@adiwajshing/keyed-db": "^0.2.4",
                     "@bochilteam/scraper": "latest",
@@ -68,15 +68,17 @@
                     "lib": "lib",
                     "assets": "lib/assets"
           },
+
+          
           "devDependencies": {
                     "pino": "^7.0.5"
           },
           "repository": {
                     "type": "git",
-                    "url": "git+https://github.com/SuhailTechInfo/Secktor-bot.git"
+                    "url": "git+https://github.com/zetauh/ZETA-XD.git"
           },
           "bugs": {
-                    "url": "https://github.com/SuhailTechInfo/Secktor-bot/issues"
+                    "url": "https://github.com/zetauh/ZETA-XD/issues"
           },
-          "homepage": "https://github.com/SuhailTechInfo/Secktor-bot#readme"
+          "homepage": "https://github.com/zetauh/ZETA-XD#readme"
 }
