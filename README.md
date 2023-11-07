@@ -1,4 +1,4 @@
-## ***ZENEXA WA BOT***
+## ***ZETA WA BOT***
 ## ***Bot Features***
 ---
 1. ***Game Menu.***
@@ -18,16 +18,16 @@
 
 ## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
 1. ***Star⭐ The Repository First***
-2. ***Click [`FORK`](https://github.com/luke-usui/zenexa-md/fork)***
+2. ***Click [`FORK`](https://github.com/zetauh/ZETA-XD/fork)***
 3. ***Get SESSION ID  by [`Scanning QR Code`](https://replit.com/@Mehar-Zubair/SIGMA-MD?v=1). `Whatapp>Three dots>Linked Devices`***
 4. ***Get a Mongodb url From [`Mongodb,`](https://account.mongodb.com/)  Watch Tutorial  [`How To Get MongoDB Url`](https://youtu.be/HNj76uDT-uc?si=ObIoNZoP5gSZ8bSF).***
-5. ***Deploy on [`Heroku,`](https://heroku.com/deploy?template=https://github.com/luke-usui/zenexa-md)  Watch Tutorial 
+5. ***Deploy on [`Heroku,`](https://heroku.com/deploy?template=https://github.com/zetauh/ZETA-XD)  Watch Tutorial 
  [`How To Deploy on Heroku`](https://youtu.be/7hhuzIkhVfE).***
-7. ***Install [`External Plugins`](https://github.com/luke-usui/zenexa-md-plugins).***
+7. ***Install [`External Plugins`](https://github.com/zetauh/ZETA-XD/wiki).***
 ##
 - ***Star ⭐ My Repo If You Like This Bot.***
 
-- ***The [ZEXENA-MD](https://github.com/luke-usui/zenexa-md) is Made Under The [`GPL-3 license`](https://github.com/zexenaah/zexena-md/blob/main/LICENCE).***
+- ***The [ZETA-XD](https://github.com/zetauh/ZETA-XD) is Made Under The [`GPL-3 license`](https://github.com/zexenaah/zexena-md/blob/main/LICENCE).***
 
 ### `𝘚𝘱𝘦𝘤𝘪𝘢𝘭 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
 - ***[Shahid Ser ](https://github.com/zetauh)***
